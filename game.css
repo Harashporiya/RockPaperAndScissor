@@ -1,0 +1,86 @@
+body{
+    background-image: url(bg.png);
+    background-size: cover;
+   background-repeat: no-repeat;
+}
+h1{
+    color:blue;
+    font-size: 70px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 40px;
+}
+#img{
+    height: 70vh;
+    margin-top: 20px;
+}
+#para{
+    color: white;
+    font-size: 30px;
+   margin-right: 300px;
+  
+}
+#play-button{
+    height: 40px;
+    margin-left: 300px;
+    margin-bottom: 250px;
+}
+#play-para{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+#userChoice{
+  color: white;
+  font-size: 30px;
+  justify-content: center;
+  text-align: center;
+ 
+}
+#container{
+    border: 3px solid orange;
+    width: 500px;
+    margin-left: 100px;
+    margin-top: 0px;
+   height: 510px;
+}
+#score{
+    color: white;
+    font-size: 90px;
+    justify-content: center;
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 0px;
+}
+#logo{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+#computerChoice{
+    border: 3px solid orange;
+    color: white;
+    font-size: 30px;
+    margin-top: 0px;
+    width: 500px;
+    margin-left: 100px;
+    height: 510px;
+    justify-content: center;
+    text-align: center;
+   
+}
+#content{
+    display: flex;
+}
+#vs_img img{
+    height: 510px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 100px;
+    margin-top: 0px;
+}
+#hand img{
+  height: 250px;
+}
