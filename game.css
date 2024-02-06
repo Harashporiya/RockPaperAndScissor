@@ -28,7 +28,8 @@ h1 {
 #play-button {
     height: 40px;
     margin-left: 300px;
-    margin-bottom: 250px;
+    margin-bottom: 300px;
+    padding: 20px;
 }
 
 #play-para {
@@ -49,7 +50,7 @@ h1 {
 #container {
     border: 3px solid orange;
     width: 500px;
-    margin-left: 100px;
+    margin-left: 300px;
     margin-top: 0px;
     height: 510px;
 }
